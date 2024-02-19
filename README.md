@@ -5,12 +5,7 @@
   <a href="https://www.linkedin.com/in/eduardosimoes97/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
 </div>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=EduardoSimoess&show_icons=true&locale=en&layout=compact" alt="EduardoSimoess" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=EduardoSimoess&show_icons=true&locale=en" alt="EduardoSimoess" /></p>
-
-
-## Tecnologias que eu uso no meu dia
+## Tecnologias que eu uso no meu dia a dia
 
 <div style="display: flex; flex-wrap: wrap; justify-content: center; margin-top: 20px;">
   <img align="center" alt="html5" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
@@ -22,5 +17,11 @@
   <img align="center" alt="aws" src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white" />
   <img align="center" alt="angular" src="https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white" />
 </div><br/>
+
+<div>
+  <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=EduardoSimoess&show_icons=true&locale=en&layout=compact" alt="EduardoSimoess" /></p>
+
+  <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=EduardoSimoess&show_icons=true&locale=en" alt="EduardoSimoess" /></p>
+</div>
 
 Apaixonado por tecnologia, quero melhorar a vida das pessoas através da programação!
