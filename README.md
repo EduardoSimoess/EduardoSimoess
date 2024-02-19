@@ -1,7 +1,9 @@
 ## Olá! Eu sou o Eduardo Simões 🖐️
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Eduardo%20Sim%C3%B5es-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/eduardosimoes97/)
-[![Instagram](https://img.shields.io/badge/Instagram-Eduardo%20Sim%C3%B5es-blue?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/eduardosimoes97?utm_source=qr&igsh=NHhjN3JlMDg2dDNh)
+<div>
+  <a href = "mailto:contatorafaballerini@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+  <a href="https://www.linkedin.com/in/eduardosimoes97/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+</div>
 
 ![Eduardo Simões GitHub stats](https://github-readme-stats.vercel.app/api?username=EduardoSimoess&show_icons=true&theme=dracula&count_private=true)
 
