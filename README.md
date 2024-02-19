@@ -5,7 +5,7 @@
   <a href="https://www.linkedin.com/in/eduardosimoes97/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
 </div>
 
-## Tecnologias que eu uso no meu dia a dia
+## Tecnologias que tenho mais afinidade:
 
 <div style="display: flex; flex-wrap: wrap; justify-content: center; margin-top: 20px;">
   <img align="center" alt="html5" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
