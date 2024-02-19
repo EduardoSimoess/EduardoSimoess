@@ -5,7 +5,10 @@
   <a href="https://www.linkedin.com/in/eduardosimoes97/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
 </div>
 
-![Eduardo Simões GitHub stats](https://github-readme-stats.vercel.app/api?username=EduardoSimoess&show_icons=true&theme=dracula&count_private=true)
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=EduardoSimoess&show_icons=true&locale=en&layout=compact" alt="EduardoSimoess" /></p>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=EduardoSimoess&show_icons=true&locale=en" alt="EduardoSimoess" /></p>
+
 
 ## Tecnologias que eu uso no meu dia
 
